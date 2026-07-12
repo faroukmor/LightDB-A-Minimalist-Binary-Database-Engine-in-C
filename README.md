@@ -1,10 +1,10 @@
-# 🚀 LightDB: A Minimalist Binary Database Engine in C
+#  LightDB: A Minimalist Binary Database Engine in C
 
 **LightDB** is a lightweight, single-header binary database engine designed for C developers who need a fast, reliable, and simple way to store structured data without the overhead of heavy SQL engines.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Single-Header Magic:** Just one file (`db_lib.h`) to manage your entire data layer.
 * **True Binary Storage:** Data is stored in a compact binary format, ensuring high performance and small disk footprint.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 To use **LightDB** in your project, simply copy `db_lib.h` to your project folder. 
 
